@@ -1,0 +1,18 @@
+[
+    {
+        "name": "COFFEE",
+        "image": "images/Gallery 1.jpg"
+    },
+    {
+        "name": "BREAKFAST",
+        "image": "images/Gallery 3.jpg"
+    },
+    {
+        "name": "SANDWICH",
+        "image": "images/Gallery 4.jpg"
+    },
+    {
+        "name": "JUICE",
+        "image": "images/Gallery 2.jpg"
+    }
+]
